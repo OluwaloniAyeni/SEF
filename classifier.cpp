@@ -1,7 +1,7 @@
 #include <stdio.h>
 void train() {
 printf("train\n");
-printf("MAIN VERSION HERE\n");
+printf("The first feature is added\n");
 }
 void predict() {
 printf("predict\n");
